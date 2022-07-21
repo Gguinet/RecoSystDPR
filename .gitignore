@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+utils.py
+data/data_visu/*
+data/embedding_data/*
+data/passage_data/*
+
+__pycache__/
+*/__pycache__/
+.DS_Store

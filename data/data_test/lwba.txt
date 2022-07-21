@@ -1,0 +1,19 @@
+   [1][USEMAP:quotes-1.gif] [trans_1x1.gif]
+   [2][paulgraham_2271_3232]
+
+   Lisp for Web-Based Applications
+
+   After a link to [3]Beating the Averages was posted on slashdot,
+   some readers wanted to hear in more detail about the specific
+   technical advantages we got from using Lisp in Viaweb. For
+   those who are interested, here are some excerpts from a talk I
+   gave in April 2001 at BBN Labs in Cambridge, MA.
+   [trans_1x1.gif]
+
+                       [paulgraham_2271_5194]
+
+   [trans_1x1.gif] [4]BBN Talk Excerpts (ASCII)
+   [trans_1x1.gif]
+   [trans_1x1.gif]
+     __________________________________________________________
+
